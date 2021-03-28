@@ -108,4 +108,4 @@ if __name__ == '__main__':
 ### 結果
 
 * picture
- <img src="../img/01.jpg" width="300" height="200"  align=center /> 
+ <img src="https://github.com/ukarara/ai109b/blob/main/homework/img/01.JPG" width="300" height="200"  align=center /> 
