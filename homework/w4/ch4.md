@@ -9,9 +9,10 @@
  
 ## [程式碼](https://github.com/Yongsin0/ai109b/blob/main/homework/week4/ddd.py):
 
+```
 import string
 
-"""
+
 确保大小写正确转换，用了两个列表
 """
 letter_list = string.ascii_uppercase
@@ -101,6 +102,7 @@ if __name__ == '__main__':
             message = get_info()
             key = get_real_key()
             print(Decrypt(message, key))
+    ```    
 * 這里以輸入”helloworld”為例，然後進行加解密，能夠正確完
 成
 ### 結果
