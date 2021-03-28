@@ -7,7 +7,7 @@
 * 解密過程:在密鑰字母k對應的行找到對應密文字母，則該密 文  字母對應的列的字母就是明文字母
 
  
-## [程式碼](https://github.com/Yongsin0/ai109b/blob/main/homework/week4/ddd.py):
+## [程式碼](https://github.com/ukarara/ai109b/blob/main/homework/w4/aaa.py):
 
 ```
 import string
@@ -102,9 +102,9 @@ if __name__ == '__main__':
             message = get_info()
             key = get_real_key()
             print(Decrypt(message, key))
-    ```    
-* 這里以輸入”helloworld”為例，然後進行加解密，能夠正確完
-成
+```    
+
+* 這里以輸入”helloworld”為例，然後進行加解密，能夠正確完成
 ### 結果
 
 * picture
