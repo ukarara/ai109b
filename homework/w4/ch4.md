@@ -12,8 +12,7 @@
 ```
 import string
 
-
-确保大小写正确转换，用了两个列表
+確保大小寫正確轉換
 """
 letter_list = string.ascii_uppercase
 letter_list2 = string.ascii_lowercase
@@ -21,10 +20,10 @@ letter_list2 = string.ascii_lowercase
 
 def get_real_key():
     """
-    获取列需要加的秘钥
+    獲取密鑰
     """
-    print("输入你的秘钥")
-    key = input()      #得确保都是英文
+    print("輸入密鑰")
+    key = input()      #確保輸入值為英文
     tmp = []
     flag = 0
     for i in key:
@@ -37,18 +36,18 @@ def get_real_key():
             tmp.append(ord(i.upper()) - 65)
         return tmp
     else:
-        print("请输入英文秘钥")
+        print("請輸入英文密鑰")
 
 
 def get_info():
     """
-    获取信息
+    獲取信息
     """
     print("input your message: ")
     message = input()
     return  message
 
-
+解碼
 def Encrypt(message,key):
     ciphertext = ""
     flag = 0
@@ -56,7 +55,7 @@ def Encrypt(message,key):
     for plain in message:
         if flag % len(key_list) == 0:
             flag = 0
-        if plain.isalpha(): #判断是否为英文
+        if plain.isalpha(): #判斷是否為英文
             if plain.isupper():
                 ciphertext += letter_list[(ord(plain) - 65 + key_list[flag]) % 26] #行偏移加上列偏移
                 flag += 1
@@ -90,7 +89,7 @@ def Decrypt(message,key):
 
 if __name__ == '__main__':
     while True:
-        print("请选择加密或解密模式")
+        print("請選擇加密或解密")
         print("1. Encrypt")
         print("2. Decrypt")
         choice = input("Your choice")
