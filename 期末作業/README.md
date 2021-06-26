@@ -100,7 +100,7 @@ cv2.destroyAllWindows()
 ![faceScore2](img/faceScore2.JPG)
 ![faceScore1](img/faceScore3.JPG)
 
-## 及時辨識人臉 faceCamera.py
+## 即時辨識人臉 faceCamera.py
 * [code](ai109b\期末作業\face1\faceCamera.py)
 
 ```python
