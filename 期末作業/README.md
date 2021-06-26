@@ -7,10 +7,9 @@
     * [dlib C++ Library](http://dlib.net/)
     * [【Python】 package之imutils介绍](https://blog.csdn.net/ztf312/article/details/88840855)
 
-
-
 2. code使用:  
 鍾誠老師上課資料:[programmermedia](http://programmermedia.org/root/%E9%99%B3%E9%8D%BE%E8%AA%A0/%E8%AA%B2%E7%A8%8B/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7/09-image/02-face/face1/)(ai\09-image\02-face)
+並附上個人註解及測試內容
 
 3. 套件使用
     1. OpenCV__讀取、顯示及儲存圖片
