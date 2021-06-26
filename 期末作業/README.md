@@ -27,7 +27,7 @@
 ## 圖片辨識人臉 
 
 >測試圖片
->![image1-w170](face1/image.jpg)![image2](face1/image2.jpg)![image3](face1/image3.jpg)
+>>![image1-w170](face1/image.jpg)![image2](face1/image2.jpg)![image3](face1/image3.jpg)
 
 1. faceRecognition.py
     * [code](ai109b\期末作業\face1\faceRecognition.py)
