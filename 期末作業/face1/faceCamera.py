@@ -14,7 +14,7 @@ while(cap.isOpened()):
 
   # 用dlib偵測人臉並賦予scores
   face_rects, scores, idx = detector.run(frame, 0, -1)
-  ## print("face_rects", "scores", "idx",detector.run(frame, 0))
+  # print("face_rects", "scores", "idx",detector.run(frame, 0))
   # 取出所有偵測的結果
   for i, d in enumerate(face_rects):
     x1 = d.left()
@@ -33,7 +33,7 @@ while(cap.isOpened()):
   # 顯示結果
   cv2.imshow("Face Detection", frame)
 
-  if cv2.waitKey(1) & 0xFF == ord('q'):
+  if cv2.waitKey(1) & 0xFF == ord('a'):
     break
 
 cap.release()
