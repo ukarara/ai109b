@@ -26,7 +26,9 @@ md練習 | [markdown](https://github.com/ukarara/ai109b/blob/main/writeMarkdown.
 08 | [Week08](https://github.com/ukarara/ai109b/blob/main/W8.md)
 09 | [Week09](https://github.com/ukarara/ai109b/blob/main/W9.md)
 10 | [Week10](https://github.com/ukarara/ai109b/blob/main/W10.md)
-11 | [Week11](https://github.com/ukarara/ai109b/blob/main/W11.md)*/
+11 | [Week11](https://github.com/ukarara/ai109b/blob/main/W11.md)
+12 | [Week12](https://github.com/ukarara/ai109b/blob/main/W12.md)
+13 | [Week13](https://github.com/ukarara/ai109b/blob/main/W13.md)
 14 | [Week14](https://github.com/ukarara/ai109b/blob/main/W14.md)
 15 | [Week15](https://github.com/ukarara/ai109b/blob/main/w15.md)
 16 | [Week16](https://github.com/ukarara/ai109b/blob/main/W16.md)
