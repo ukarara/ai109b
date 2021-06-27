@@ -33,6 +33,8 @@ md練習 | [markdown](https://github.com/ukarara/ai109b/blob/main/writeMarkdown.
 15 | [Week15](https://github.com/ukarara/ai109b/blob/main/w15.md)
 16 | [Week16](https://github.com/ukarara/ai109b/blob/main/W16.md)
 17 | [Week17](https://github.com/ukarara/ai109b/blob/main/W17.md)
+[期末作業](https://github.com/ukarara/ai109b/blob/main/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD/README.md)
+[授權聲明](https://github.com/ukarara/ai109b/blob/main/LICENSE.md)
 
 版權協議參考:[一文讀懂常見的開源協議(BSD, GPL, LGPL,MIT,APACHE,Mozilla)](https://www.itread01.com/content/1549750717.html)
 
