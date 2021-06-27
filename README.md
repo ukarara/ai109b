@@ -18,7 +18,7 @@
 git指令 | [git指令](https://github.com/ukarara/ai109b/blob/main/gitBasicCommend.md)
 md練習 | [markdown](https://github.com/ukarara/ai109b/blob/main/writeMarkdown.md)
 01 | [Week01](https://github.com/ukarara/ai109b/blob/main/W1.md)
-02 | [Week02](https://github.com/ukarara/ai109b/blob/main/W2.md)/*
+02 | [Week02](https://github.com/ukarara/ai109b/blob/main/W2.md)
 03 | [Week03](https://github.com/ukarara/ai109b/blob/main/W3.md)
 04 | [Week04](https://github.com/ukarara/ai109b/blob/main/W4.md)
 05 | [Week05](https://github.com/ukarara/ai109b/blob/main/W5.md)
@@ -33,6 +33,8 @@ md練習 | [markdown](https://github.com/ukarara/ai109b/blob/main/writeMarkdown.
 15 | [Week15](https://github.com/ukarara/ai109b/blob/main/w15.md)
 16 | [Week16](https://github.com/ukarara/ai109b/blob/main/W16.md)
 17 | [Week17](https://github.com/ukarara/ai109b/blob/main/W17.md)
+[維吉尼亞密碼python](https://github.com/ukarara/ai109b/blob/main/homework/w4/Vigenere.md)
+[Queen問題](https://github.com/ukarara/ai109b/blob/main/homework/W5/Queen.md)
 [期末作業](https://github.com/ukarara/ai109b/blob/main/%E6%9C%9F%E6%9C%AB%E4%BD%9C%E6%A5%AD/README.md)
 [授權聲明](https://github.com/ukarara/ai109b/blob/main/LICENSE.md)
 
